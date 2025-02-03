@@ -25,6 +25,8 @@ Espero que ajude, Valew!
 
 #### 5 - Copiar o conteudo do script disponibilizado para o seu script
 
+    [vzdump.sh]https://github.com/jeffblima/proxmox-backup/blob/main/vzdump.sh
+
 #### 6 - Alterar o UUID, pastas e as demais opções do sendEmail.
 
 #### 7 - Configurar a permissão de execução no scritp
