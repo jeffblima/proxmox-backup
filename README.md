@@ -26,3 +26,15 @@ Espero que ajude, Valew!
 #### 5 - Copiar o conteudo do script disponibilizado para o seu script
 
 #### 6 - Alterar o UUID, pastas e as demais opções do sendEmail.
+
+#### 7 - Configurar a permissão de execução no scritp
+
+    chmod +x /etc/cron.d/vzdump.sh
+
+#### 8 - Configurar a cron para executar seu scritp
+
+    cronta -e
+    0 2 * * * /etc/cron.d/vzdump.sh
+
+    **Salvar o arquivo e sair**
+    
